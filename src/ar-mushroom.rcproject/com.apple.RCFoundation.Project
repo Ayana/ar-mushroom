@@ -417,80 +417,6 @@
                                     {
                                       "configurationBox" : {
                                         "configuration" : {
-                                          "audioType" : "play",
-                                          "filePath" : "audio:com.apple.rc.audio.electronic.planetarium-pad-06\/Planetarium%20Pad%2006.caf",
-                                          "loops" : false,
-                                          "target" : [
-
-                                          ],
-                                          "volume" : 0.5
-                                        },
-                                        "name" : {
-                                          "arguments" : "stereoBypass",
-                                          "type" : "soundtrack"
-                                        }
-                                      },
-                                      "identifier" : "D3F82D99-F77A-4274-A298-5312C1B1A362",
-                                      "isEnabled" : true
-                                    }
-                                  ],
-                                  "__version" : 1
-                                }
-                              ],
-                              "identifier" : "5CDD850E-6C35-4918-AEB9-7341A873F04E",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        }
-                      ],
-                      "color" : [
-                        0.21568627655506134,
-                        0.72549021244049072,
-                        0.80000001192092896,
-                        1
-                      ],
-                      "identifier" : "9A3D5408-78AA-433B-B9EC-4EBE201F9ADE",
-                      "isEnabled" : true,
-                      "isLooping" : false,
-                      "isModal" : false,
-                      "name" : "Music",
-                      "triggers" : [
-                        {
-                          "__content" : [
-                            {
-                              "configurationBox" : {
-                                "configuration" : {
-                                  "target" : [
-                                    "5D373A6F-9311-4F81-B2B8-9DCA559A098E"
-                                  ]
-                                },
-                                "name" : "tapTarget"
-                              },
-                              "identifier" : "50606497-5153-44EF-878D-938711AC3F91",
-                              "isEnabled" : true
-                            }
-                          ],
-                          "__version" : 1
-                        }
-                      ]
-                    }
-                  ],
-                  "__version" : 2
-                },
-                {
-                  "__content" : [
-                    {
-                      "actionGroups" : [
-                        {
-                          "__content" : [
-                            {
-                              "configurations" : [
-                                {
-                                  "__content" : [
-                                    {
-                                      "configurationBox" : {
-                                        "configuration" : {
                                           "axis" : [
                                             0,
                                             1,
@@ -616,7 +542,7 @@
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "CheapPine"
+                            "value" : "HelveticaNeue"
                           }
                         ],
                         [
@@ -677,7 +603,7 @@
                           "text",
                           {
                             "typeName" : "String",
-                            "value" : "Welcome to mushroom world:)\n>>Start to play<<"
+                            "value" : "Start to play"
                           }
                         ],
                         [
@@ -872,7 +798,7 @@
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "AmaticSC-Regular"
+                            "value" : "HelveticaNeue"
                           }
                         ],
                         [
@@ -1026,7 +952,7 @@
                           "font",
                           {
                             "typeName" : "String",
-                            "value" : "AmaticSC-Regular"
+                            "value" : "HelveticaNeue"
                           }
                         ],
                         [
@@ -1726,21 +1652,21 @@
               "title" : "Scene",
               "viewTransform" : {
                 "cameraTransform" : [
-                  0.16311749815940857,
-                  1.7881396274788131e-07,
-                  -0.98660659790039062,
+                  0.17262417078018188,
+                  1.7881399116959074e-07,
+                  -0.98498779535293579,
                   0,
-                  -0.13389596343040466,
-                  0.99074810743331909,
-                  -0.022136835381388664,
+                  -0.13367624580860138,
+                  0.99074804782867432,
+                  -0.023427017033100128,
                   0,
-                  0.9774785041809082,
-                  0.13571350276470184,
-                  0.16160848736763,
+                  0.97587472200393677,
+                  0.13571351766586304,
+                  0.17102721333503723,
                   0,
-                  2.8174827098846436,
-                  0.58629113435745239,
-                  0.43273550271987915,
+                  4.1155405044555664,
+                  0.85771477222442627,
+                  0.67278963327407837,
                   1
                 ],
                 "sceneTransform" : [
