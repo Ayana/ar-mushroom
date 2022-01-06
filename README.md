@@ -1,2 +1,5 @@
 # my-reality-demo
-# ar-mushroom
+
+ar-mushroom experiment for fun
+
+Public Demo https://ar-mushroom.netlify.app/
